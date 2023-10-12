@@ -4,7 +4,6 @@
 #
 ##### Oleh: 
 ##### Ayu Cahyarani (2209116008)
-
 ##### Sistem Informasi A 22
 #
 #
