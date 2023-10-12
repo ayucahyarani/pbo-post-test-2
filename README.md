@@ -13,7 +13,10 @@ Program ini adalah sebuah aplikasi sederhana yang khusus dan hanya bisa digunaka
  
 #### Struktur Program
 
-Program ini terdiri dari dua package, yaitu com.mycompany.bank dan com.mycompany.bank.newpackage. Package com.mycompany.bank berisi kode untuk menu utama dan fungsi-fungsi untuk mengelola data nasabah. Package com.mycompany.bank.newpackage berisi kode untuk kelas Nasabah yang mewakili data nasabah. Berikut adalah penjelasan dari kode program yang digunakan:
+Program ini terdiri dari dua package, yaitu com.mycompany.bank dan com.mycompany.bank.newpackage. 
+![package nasabahhh](https://github.com/ayucahyarani/pbo-post-test-2/assets/121865360/ef4dd8e9-f130-4313-b260-e56a43d80be6)
+#
+Package com.mycompany.bank berisi kode untuk menu utama dan fungsi-fungsi untuk mengelola data nasabah. Package com.mycompany.bank.newpackage berisi kode untuk kelas Nasabah yang mewakili data nasabah. Berikut adalah penjelasan dari kode program yang digunakan:
 
 File Bank.java
 - main(): Fungsi utama yang menjalankan program
